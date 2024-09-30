@@ -1,0 +1,32 @@
+{
+
+    "inventory": [
+  
+      {
+  
+        "item": "Кисти",
+  
+        "category": "Инструменты",
+  
+        "quantity": 5,
+  
+        "minimum_required": 10
+  
+      },
+  
+      {
+  
+        "item": "Краска акриловая",
+  
+        "category": "Материалы",
+  
+        "quantity": 20,
+  
+        "minimum_required": 15
+  
+      }
+  
+      
+    ]
+  
+  }
